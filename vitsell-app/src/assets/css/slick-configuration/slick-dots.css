@@ -1,0 +1,48 @@
+/* Dots */
+.slick-dotted.slick-slider {
+  margin-bottom: 30px;
+}
+
+.slick-dots li {
+  display: flex;
+  margin: 0 5px;
+  padding: 0;
+  width: 11px;
+  height: 11px;
+  opacity: 0.25;
+  background-color: #c2123c;
+  border-radius: 50%;
+  transition: 0.7s;
+  overflow: hidden;
+}
+
+.slick-dots li button {
+  width: 11px;
+  height: 11px;
+  padding: 0;
+  opacity: 1;
+  background-color: transparent;
+  color: transparent;
+  border-radius: 50%;
+}
+
+.slick-dots li button:before {
+  font-family: 'slick';
+  content: '-';
+  width: 11px;
+  height: 11px;
+  opacity: 1;
+  padding: 0;
+  background-color: transparent;
+  color: transparent;
+  border-radius: 50%;
+}
+
+.slick-dots li.slick-active {
+  opacity: 1;
+  width: 33px;
+  border-radius: 12px;
+  color: #c2123c;
+}
+.slick-slider .slick-track {
+}

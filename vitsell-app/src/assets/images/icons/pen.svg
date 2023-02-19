@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="24" height="24" fill="current"/>
+    </clipPath>
+  </defs>
+  <g id="pen" clip-path="url(#clip-path)">
+    <path id="Path_12" data-name="Path 12" d="M19.386.622l3.992,3.992L10.461,17.531,4.932,22.559A5.537,5.537,0,0,1,.658,23.973l-.573-.057-.057-.573a5.537,5.537,0,0,1,1.413-4.274l5.028-5.529ZM7.487,14.511l-5.006,5.5a4.13,4.13,0,0,0-1.07,2.573,4.13,4.13,0,0,0,2.573-1.069l5.5-5.006,11.9-11.9-2-2Z" fill="current" fill-rule="evenodd"/>
+    <path id="Path_13" data-name="Path 13" d="M22.385,1.615a.709.709,0,0,0-1,0l-1,1-.995-.995,1-1a2.116,2.116,0,0,1,2.993,0m0,0a2.116,2.116,0,0,1,0,2.993h0l-1,1-.995-.995,1-1h0a.709.709,0,0,0,0-1h0" fill="current" fill-rule="evenodd"/>
+    <path id="Path_14" data-name="Path 14" d="M21.687,8.108l-.772-2.49L22.259,5.2l1.023,3.3L18.155,13.63l-.995-.995Z" fill="current" fill-rule="evenodd"/>
+    <path id="Path_15" data-name="Path 15" d="M9.478,17.52l-3-3,.995-.995,3,3Z" fill="current" fill-rule="evenodd"/>
+    <path id="Path_16" data-name="Path 16" d="M11.477,15.52l-3-3,.995-.995,3,3Z" fill="current" fill-rule="evenodd"/>
+    <path id="Path_17" data-name="Path 17" d="M3.961,22.536l-2.5-2.5.995-.995,2.5,2.5Z" fill="current" fill-rule="evenodd"/>
+    <path id="Path_18" data-name="Path 18" d="M19.888,7.109l-3-3,.995-.995,3,3Z" fill="current" fill-rule="evenodd"/>
+  </g>
+</svg>
